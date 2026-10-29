@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HashMe\\x64\\Debug\\decl.obj",
+            "outputs": [
+                "HashMe\\x64\\Debug\\decl.h.obj.dt.module.json",
+                "HashMe\\x64\\Debug\\decl.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
